@@ -1,0 +1,43 @@
+    1  pwd
+    2  cd ~
+    3  cd //eos/STUDENTs$/340446/Desktop/BL 2024-25 PZI
+    4  cd //eos/STUDENTs$/340446/Desktop/BL 2024-25 PZI
+    5  //eos/STUDENTs$/340446/Desktop/BL 2024-25 PZI
+    6  cd
+    7  cd //eos/STUDENTs$/340446/Desktop/BL 2024-25 PZI
+    8  cd //eos/STUDENTs$/340446/Desktop/BL_2024-25_PZI
+    9  cd //eos/STUDENTs$/340446/Desktop/bl2024pzi
+   10  ls -la
+   11  clear
+   12  ls --help
+   13  ls -l
+   14  ls -a
+   15  git --version
+   16  mkdir local
+   17  cd local/
+   18  git init
+   19  ls -la
+   20  cd .git
+   21  ls -la
+   22  cat config
+   23  ls -la
+   24  cd ..
+   25  touch nowy_plik.txt
+   26  git status
+   27  git add nowy_plik.txt
+   28  git add .
+   29  git status
+   30  touch nowy_plik3
+   31  git commit -m "Add nowy_plik3"
+   32  git config --local user.name "Bartosz"
+   33  git config -- local user.email barotsz.poczta0509@gmail.com
+   34  git log
+   35  git status
+   36  git push
+   37  git remote add origin https://github.com/Laczq/spi-2024g2.git
+   38  git remote -v
+   39  git push origin
+   40   git push --set-upstream origin master
+   41  git add .
+   42  git add .
+   43  history
