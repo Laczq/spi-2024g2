@@ -86,3 +86,16 @@
    86  git chceckout 23-10-2024-beta
    87  git checkout 23-10-2024-beta
    88  history
+   test
+
+    88  history
+   89  git add .
+   90  git commit -m "Add history to file"
+   91  git push
+   92  git checkout master
+   93  git merge --no-ff 23-10-2024-beta
+   94  git log
+   95  git log --oneline
+   96  git add .
+   97  git commit -m "Add history to file Update"
+   98  fsdfsfsfsdf
