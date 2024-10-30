@@ -1,1 +1,0 @@
-Witaj w projekcie Git!
