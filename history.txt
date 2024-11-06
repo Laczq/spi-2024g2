@@ -41,3 +41,142 @@
    41  git add .
    42  git add .
    43  history
+it tag 1.0.0
+  243  git log --oneline
+  244  git tag -a 1.0.1 -m"Nowa wersja"
+  245  git log --oneline
+  246  git tag
+  247  git show
+  248  git show 1.0.1
+  249  git status -oneline
+  250  git status --oneline
+  251  git log --oneline
+  252  git push --tags
+  253  git remote add bartosz.poczta0509@gmail.com
+  254  git remote add "bartosz.poczta0509@gmail.com"
+  255  git remote add origin https://github.com/Laczq/spi-2024g2.git
+  256  git push --tags
+  257  git tag -l "v1*"
+  258  git fetch --tags
+  259  git tag v1.0.0
+  260  git log --oneline
+  261  git tag -d v1.0.0
+  262  git fetch --tags
+  263  git tag
+  264  git push --tags
+  265  git tag  v1.0.0
+  266  git fetch --tags
+  267  git push --tags
+  268  git tag -d v1.0.0
+  269  git tag
+  270  git fetch
+  271  git push --delete v1.0.0
+  272  git push origin --delete v1.0.0
+  273  git fetch
+  274  git tag
+  275  git tag -d v1.0.0
+  276  git log --oneline
+  277  touch tagi.md
+  278  git branch
+  279  git checkout nowa-funkcja
+  280  git add .
+  281  git commit -a -m"ADD"
+  282  git push
+  283  git log --oneli
+  284  git checkout master
+  285  git checkout nowa-funkcja
+  286  git cherry-pick f638398
+  287  git checkout master
+  288  git cherry-pick f638398
+  289  git cherry-pick 2f435d0
+  290  git show
+  291  git blame history.txt
+  292  git blame funkcja.py
+  293  git branch
+  294  git checkout master
+  295  git add .
+  296  git commit -m
+  297  git commit -a
+  298  git push
+  299  git push --set-upstream origin master
+  300  git commit -a -m"teest"
+  301  git shortlog -sn
+  302  git reflog
+  303  git archive -o program.zip HEAD
+  304  git bisect start
+  305  git clean -f
+  306  git bisect stop
+  307  git status
+  308  cd nowy/
+  309  touch .gitkeep
+  310  git add .
+  311  gitcommit -m"Add"
+  312  git commit -m"Add"
+  313  git status
+  314  git push
+  315  git push --set-upstream origin master
+  316  git pull
+  317  git branch --set-upstream-to=origin/<master> master
+  318  git pull <spi-2024g2> <master>
+  319  git pull spi-2024g2 master
+  320  git pull https://github.com/Laczq/spi-2024g2.git  master
+  321  git branch
+  322  git checkout master
+  323  git checkout nowa-funckja
+  324  git checkout nowa-funkcja
+  325  git rm -r --cached .
+  326  cd -
+  327  cd ~
+  328  cd /home/u340446/Pulpit/BL2024SPI/spi-2024g2/spi-2024g2
+  329  git log --oneline
+  330  rm -rf nowy/
+  331  git status
+  332  git pull
+  333  git push
+  334  ls -la
+  335  git submodule add https://github.com/davidvandenbor/html-onepager-example.git onepage
+  336  git add .
+  337  git commit - "Add new submodule"
+  338  git commit -m "Add new submodule"
+  339  git push
+  340  ls -la
+  341  cd ..
+  342  ls -la
+  343  git clone https://github.com/Laczq/spi-2024g2.git test
+  344  cd test/
+  345  ls -la
+  346  cd onepage/
+  347  ls -la
+  348  git submodule update
+  349  ls -la
+  350  ls -la onepage/
+  351  git submodule init
+  352  git submodule update
+  353  ls -la onepage/
+  354  ls -la onepage
+  355  ls -la 
+  356  cd .
+  357  cd.
+  358  cd ..
+  359  git status
+  360  git rm --cached onepage/
+  361  rm -rf onepage/
+  362  cat .gitmodules
+  363  git rm .gitmodules
+  364  git commit -m "Remove submodule"
+  365  cd ..
+  366  code .
+  367  git add .
+  368  cd ..
+  369  cd onepage2/
+  370  cd onepage/
+  371  cd onepage
+  372  cd /home/u340446/Pulpit/BL2024SPI/spi-2024g2/spi-2024g2/onepage
+  373  git add .
+  374  git commit -m "Update"
+  375  git push
+  376  git chceckout onepage2
+  377  git checkout onepage2
+  378  git checkout master
+  379  git push
+  380  history
