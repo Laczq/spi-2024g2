@@ -1,0 +1,96 @@
+komendy użyte na zajęciach:
+
+chmod
+
+chown
+
+basename
+
+ls -l
+
+df ( diskfile system)
+
+{
+diff (difference) (porównywanie katalogów)
+
+-i 
+-r
+-q
+-w
+--ignore-blank-lines
+< linia z pierwszego pliku
+> linia z 2 pliku
+-u
+-y
+}
+
+dirname {
+--zero
+--help
+-version
+}
+
+echo {
+-e
+-n
+-E
+--help
+--version
+}
+
+dmesg (wiadomości jądra) {
+| tail
+| grep
+-w
+-h
+-T
+-T -L
+}
+
+du (disk use) {
+-h
+-sh
+-ah
+-ch
+}
+
+grep (wyszukiwanie tekstu w plikach) {
+-i
+-v
+-c
+-n
+-H
+-h
+-r --recursive
+-l
+-L
+-o
+--color
+}
+
+sort (sortowanie) {
+-r
+-n
+-h
+-f
+-u
+-o
+-k
+-M
+}
+
+umask (domysle uprawnienia dla nowych plikow) 
+
+uniq (unikalnosc {
+-s
+-w
+-c
+-d
+}
+
+
+
+
+
+
+
